@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main() 
+{
+int x,marks;
+printf ("enter ur marks\n");
+marks=x;
+scanf ("%d",&x);
+{
+    if (x>=90)
+        printf ("a");
+    else if (x>=80)
+        printf ("b");
+        else if (x>=70)
+            printf ("c");
+    else if (x>=60)
+printf ("d");
+    else
+        printf ("fail");
+} 
+}
